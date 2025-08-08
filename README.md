@@ -1,8 +1,7 @@
 # Platform created for a wedding ceremony:
-Uses Mecanum drive to provide omni directional drivability and rotaion around center. 
+Uses Mecanum drive to provide omni directional drivability and rotaion. Code originated and has been refined with ChatGPT prompts. This repository was created to track working versions as new functionality is added and existing code is refined. 
 
-# Code originated from ChatGPT prompt:
-
+# Latest Prompt
 I have a robot with software running on a raspberry pi 4. The Pi is Bluetooth connected to an 8bitdo lite 2 controller. The robot has mecanum wheels attached to Talon SRX speed controllers that are connected to an Arduino Nano through a USB cable. The Talon controllers are connected to the following pins on Arduino for PWM control:
 Front Right	14
 Rear Right	15
