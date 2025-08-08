@@ -28,4 +28,4 @@ When the operator presses the left trigger button, the robot should go into a re
 
 The x button on the 8bitdo controller should turn off and disable LEDs in whatever mode the robot is in, and pressing the y button should re-enable the LEDs. 
 
-Include instructions for setting up the software to run on boot, and when the 8bitdo controller goes to sleep or becomes disconnected to repeatedly attempt to reconnect it. <img width="771" height="1209" alt="image" src="https://github.com/user-attachments/assets/a14e2625-1931-4e89-bebf-f1f5cbd0ad68" />
+Include instructions for setting up the software to run on boot, and when the 8bitdo controller goes to sleep or becomes disconnected to repeatedly attempt to reconnect it. 
